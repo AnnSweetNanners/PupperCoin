@@ -18,33 +18,33 @@ MyCrypto
 
 > Step One - Change the testing timeframe in the solidity file from now+24 weeks to now+5 minutes so your crowdfunding is testable.
 
-![Change Time](Images/TestingTimeframe.png)
+![Change Time](Images/TestingTimeframe.PNG)
 
 > Step Two - Compile the contract and deploy using the PupperCoinSaleDeployer. Enter the name Symbol, wallet and goal information. *Note I used 10 coins as the goal to test the contract.*
 
-![Deploy](Images/Deploy.png)
+![Deploy](Images/Deploy.PNG)
 
 > Step Three - Confirm Deployment in MetaMask.
-![Deploy](Images/MetaDeploy.png)
+![Deploy](Images/MetaDeploy.PNG)
 
 > Step Four - Locate the Token and Token Sale Addresses.
-![Deposit](Images/ContractAddress.png)
+![Deposit](Images/ContractAddress.PNG)
 
 > Step Five - Using the token_sale_address, deploy the PupperCoin Sale entering the address in the "At Address" field.
 
-![Sale](Images/SaleAddress.png)
+![Sale](Images/SaleAddress.PNG)
 
 > Step Six - Using the token_address, deploy Puppercoin entering the address in the "At Address" field.
 
 > Step Seven - Enter the number of Ether you want to use to purchase tokens and enter the address next to "buy tokens" in PupperCoin Sale.
 
-![Amount](Images/PC_Sale.png)
+![Amount](Images/PC_Sale.PNG)
 
     > You will get a MetaMask confirmation when you enter the amount.
 
 >Step Eight - Use the Sale Features to determine how the crowdsale is going! You can see if the goal has been reached, if the sale is open, finalized, etc.
-![SaleFeatures](Images/Sale_Details.png)
+![SaleFeatures](Images/Sale_Details.PNG)
 
 Use the PupperCoin features to use the minter or determine balances in individual accounts.
 
-![PupperCoinDetails](Images/PupperCoin_Details.png)
+![PupperCoinDetails](Images/PupperCoin_Details.PNG)
